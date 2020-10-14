@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/ningma/StudioProjects/MP4/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="cf68c4ede6953f517ab9c8a7f3170504ef9459a8">
+        <dex dex="/Users/ningma/StudioProjects/MP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_ea098d9a30adddd5c8251c425ee17374b441b1be/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ningma/StudioProjects/MP4/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="093f35afa6fb10407b41f3e4c26492ef858d9fc4">
+        <dex dex="/Users/ningma/StudioProjects/MP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d1ef2b6e364a73bbe8b0f84301ebb0166323a4ff/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,89 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/ningma/Projects/MP4/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/ningma/Projects/MP4/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/ningma/Projects/MP4/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/ningma/Projects/MP4/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/ningma/Projects/MP4/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/ningma/Projects/MP4/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/ningma/Projects/MP4/app/src/main/AndroidManifest.xml:2:1-31:12
+	package
+		ADDED from /Users/ningma/Projects/MP4/app/src/main/AndroidManifest.xml:4:5-31
+		INJECTED from /Users/ningma/Projects/MP4/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ningma/Projects/MP4/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/ningma/Projects/MP4/app/src/main/AndroidManifest.xml:6:7-32
+		INJECTED from /Users/ningma/Projects/MP4/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ningma/Projects/MP4/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/ningma/Projects/MP4/app/src/main/AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from /Users/ningma/Projects/MP4/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/ningma/Projects/MP4/app/src/main/AndroidManifest.xml:5:7-30
+		INJECTED from /Users/ningma/Projects/MP4/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ningma/Projects/MP4/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/ningma/Projects/MP4/app/src/main/AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from /Users/ningma/Projects/MP4/app/src/main/AndroidManifest.xml:8:22-78
+application
+ADDED from /Users/ningma/Projects/MP4/app/src/main/AndroidManifest.xml:10:5-27:19
+	android:label
+		ADDED from /Users/ningma/Projects/MP4/app/src/main/AndroidManifest.xml:10:48-80
+	android:icon
+		ADDED from /Users/ningma/Projects/MP4/app/src/main/AndroidManifest.xml:10:18-47
+activity#com.rabbitxp.mp4.MP4Chooser
+ADDED from /Users/ningma/Projects/MP4/app/src/main/AndroidManifest.xml:11:9-18:20
+	android:label
+		ADDED from /Users/ningma/Projects/MP4/app/src/main/AndroidManifest.xml:13:19-51
+	android:theme
+		ADDED from /Users/ningma/Projects/MP4/app/src/main/AndroidManifest.xml:12:19-77
+	android:name
+		ADDED from /Users/ningma/Projects/MP4/app/src/main/AndroidManifest.xml:11:19-44
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/ningma/Projects/MP4/app/src/main/AndroidManifest.xml:14:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/ningma/Projects/MP4/app/src/main/AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from /Users/ningma/Projects/MP4/app/src/main/AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/ningma/Projects/MP4/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/ningma/Projects/MP4/app/src/main/AndroidManifest.xml:16:27-74
+activity#com.rabbitxp.mp4.CutterGUI
+ADDED from /Users/ningma/Projects/MP4/app/src/main/AndroidManifest.xml:19:9-25:20
+	android:screenOrientation
+		ADDED from /Users/ningma/Projects/MP4/app/src/main/AndroidManifest.xml:21:7-44
+	android:label
+		ADDED from /Users/ningma/Projects/MP4/app/src/main/AndroidManifest.xml:23:19-51
+	tools:ignore
+		ADDED from /Users/ningma/Projects/MP4/app/src/main/AndroidManifest.xml:24:13-53
+	android:configChanges
+		ADDED from /Users/ningma/Projects/MP4/app/src/main/AndroidManifest.xml:22:7-68
+	android:theme
+		ADDED from /Users/ningma/Projects/MP4/app/src/main/AndroidManifest.xml:20:19-77
+	android:name
+		ADDED from /Users/ningma/Projects/MP4/app/src/main/AndroidManifest.xml:19:19-43
+supports-screens
+ADDED from /Users/ningma/Projects/MP4/app/src/main/AndroidManifest.xml:29:1-105
+	android:largeScreens
+		ADDED from /Users/ningma/Projects/MP4/app/src/main/AndroidManifest.xml:29:48-75
+	android:smallScreens
+		ADDED from /Users/ningma/Projects/MP4/app/src/main/AndroidManifest.xml:29:76-103
+	android:normalScreens
+		ADDED from /Users/ningma/Projects/MP4/app/src/main/AndroidManifest.xml:29:19-47
+uses-sdk
+INJECTED from /Users/ningma/Projects/MP4/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/ningma/Projects/MP4/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ningma/Projects/MP4/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ningma/Projects/MP4/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ningma/Projects/MP4/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/ningma/Projects/MP4/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ningma/Projects/MP4/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ningma/Projects/MP4/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/ningma/Projects/MP4/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ningma/Projects/MP4/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ningma/Projects/MP4/app/src/main/AndroidManifest.xml

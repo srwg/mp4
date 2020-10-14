@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/ningma/Projects/MP4/app/build/intermediates/res/merged/debug/layout_mp4item.xml.flat",
+        "source": "/Users/ningma/Projects/MP4/app/src/main/res/layout/mp4item.xml"
+    },
+    {
+        "merged": "/Users/ningma/Projects/MP4/app/build/intermediates/res/merged/debug/drawable_icon.png.flat",
+        "source": "/Users/ningma/Projects/MP4/app/src/main/res/drawable/icon.png"
+    },
+    {
+        "merged": "/Users/ningma/Projects/MP4/app/build/intermediates/res/merged/debug/layout_movie.xml.flat",
+        "source": "/Users/ningma/Projects/MP4/app/src/main/res/layout/movie.xml"
+    }
+]
